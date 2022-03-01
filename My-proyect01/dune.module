@@ -1,0 +1,12 @@
+################################
+# Dune module information file #
+################################
+
+# Name of the module
+Module: My-proyect01
+Version: 1.0
+Maintainer: proyect@unap.com
+# Required build dependencies
+Depends: dune-common
+# Optional build dependencies
+#Suggests:
